@@ -5,7 +5,7 @@
 I'm Yusuf from Turkey. I'm here to see your content and share my own content. And i'm a student.
 <br>
 
-<div align="center"><img src="![image](https://user-images.githubusercontent.com/85577021/141184978-b068fdaa-b5d9-4faa-960f-21c8bc99231d.png)" width="200px" ></div>
+<div align="center"><img src="https://cdn.pixabay.com/photo/2019/11/07/23/40/ship-4610148_960_720.png" width="200px" ></div>
 
 <br>
 
