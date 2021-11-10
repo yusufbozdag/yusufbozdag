@@ -2,7 +2,6 @@
 
 ## Hello There :wave:
 
----
 I'm Yusuf from Turkey. I'm a student, I use this platform to share and follow content.
 
 * React, Angula, VUE
