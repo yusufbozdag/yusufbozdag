@@ -1,16 +1,28 @@
-### Hi there 👋
+<h2 align="center">YUSUF BOZDAG</h2>
+<h3 align="center">Web Designer | SAILOR ⚓</h3>
 
-<!--
-**yusufbozdag/yusufbozdag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+I'm Yusuf from Turkey. I'm here to see your content and share my own content. And i'm a student.
+<br>
 
-Here are some ideas to get you started:
+<div align="center"><img src="ship.png" width="200px" ></div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+
+## Skills
+
+---
+<br>
+
+* React, Angular, VUE
+* JavaScript, HTML, CSS
+
+<br>
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufbozdag&theme=slateorange&show_icons=true)
+
+
+
