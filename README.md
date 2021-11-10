@@ -1,28 +1,22 @@
-<h2 align="center">YUSUF BOZDAG</h2>
-<h3 align="center">Web Designer | SAILOR ⚓</h3>
+<img src="PRO.jpg">
+
+## Hello There :wave:
 
 ---
-I'm Yusuf from Turkey. I'm here to see your content and share my own content. Also i'm a student.
-<br>
+I'm Yusuf from Turkey. I'm a student, I use this platform to share and follow content.
 
-<div align="center"><img src="https://cdn.pixabay.com/photo/2019/11/07/23/40/ship-4610148_960_720.png" width="200px" ></div>
+* React, Angula, VUE
+* JavaScript, HTMl, CSS, C#
 
-<br>
-
-
-## Skills
-
----
-<br>
-
-* React, Angular, VUE
-* JavaScript, HTML, CSS
-
-<br>
+### My Social Media Accounts
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufbozdag&theme=slateorange&show_icons=true)
+<a href="https://www.instagram.com/yusufbozd4g/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a>
+<a href="https://www.twitter.com/yusufbozd4g/">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+<a>
 
-
-
+<div align="center"><img  src="https://media2.giphy.com/media/OrFmkOFx7PVK/giphy.gif?cid=790b761136a5d6e0b8f8a4d5712cb965963c94dd17ea70d4&rid=giphy.gif&ct=g"></div>
