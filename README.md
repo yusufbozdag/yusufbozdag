@@ -4,7 +4,6 @@
 
 I'm Yusuf from Turkey. I'm a student, I use this platform to share and follow content.
 
-* React, Angular, VUE
 * JavaScript, HTMl, CSS, C#
 
 ### My Social Media Accounts
