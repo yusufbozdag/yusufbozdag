@@ -15,7 +15,7 @@ I'm Yusuf from Turkey. I'm a student, I use this platform to share and follow co
 <a href="https://www.twitter.com/yusufbozd4g/">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 <a href="https://discord.gg/StZVyMs9uS">
-<img src="	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 <a>
 <a></div>
 
