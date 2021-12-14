@@ -1,10 +1,10 @@
-<img src="https://r.resimlink.com/rwzb.jpg">
+<img src="https://i.hizliresim.com/39n2d4v.jpg">
 
 ## Hello There :wave:
 
 I'm Yusuf from Turkey. I'm a student, I use this platform to share and follow content.
 
-* JavaScript, HTMl, CSS, C#
+* JavaScript, HTML, CSS, C#
 
 ### My Social Media Accounts
 
