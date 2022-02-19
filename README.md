@@ -4,7 +4,7 @@
 
 I'm Yusuf from Turkey. I'm a student, I use this platform to share and follow content.
 
-* JavaScript, HTML, CSS, C#
+* JavaScript, HTML, CSS, C#, FLUTTER
 
 ### My Social Media Accounts
 
