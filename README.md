@@ -9,7 +9,7 @@ I'm Yusuf from Turkey. I'm a student, I use this platform to share and follow co
 ### My Social Media Accounts
 
 ---
-<div align="center"><a href="https://www.instagram.com/yusufbozd4g/">
+<div align="center"><a href="https://www.instagram.com/bozdag.me/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <a>
 <a href="https://www.twitter.com/yusufbozd4g/">
